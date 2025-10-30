@@ -18,10 +18,13 @@ ls -lart testfile.bin
 ./send-without-sendfile.sh
 ```
 
-<img width="1919" height="324" alt="image" src="https://github.com/user-attachments/assets/ac1c4924-f625-4593-a732-c0e641c62c17" />
-
-More runs:
+Tests with 50 MB files:
 
 <img width="1908" height="917" alt="image" src="https://github.com/user-attachments/assets/64b9c9db-1e69-4355-8f2f-a03ac2ab6b94" />
+
+Tests with 250 MB files:
+[file creation screenshot]
+<img width="894" height="207" alt="image" src="https://github.com/user-attachments/assets/5ed15fe9-9b8f-4cdf-834e-2d9b2bcd3b23" />
+
 
 
