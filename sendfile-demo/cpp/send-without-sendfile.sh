@@ -1,0 +1,1 @@
+time cat "testfile.bin" | nc -q 0 "127.0.0.1" "8000"
