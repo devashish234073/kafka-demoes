@@ -22,5 +22,6 @@ ls -lart testfile.bin
 
 More runs:
 
-<img width="1908" height="756" alt="image" src="https://github.com/user-attachments/assets/16c9b851-07c1-4fcb-a014-899030704691" />
+<img width="1908" height="917" alt="image" src="https://github.com/user-attachments/assets/64b9c9db-1e69-4355-8f2f-a03ac2ab6b94" />
+
 
