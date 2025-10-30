@@ -116,7 +116,7 @@ int main(int argc, char *argv[]) {
 
         /* Signal EOF to receiver and close socket */
         shutdown(sock, SHUT_WR);
-        usleep(1000); // 100ms grace
+        //usleep(1000); // 100ms grace
         close(sock);
 
         /* rewind file offset for next run */
