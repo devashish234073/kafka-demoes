@@ -14,5 +14,6 @@ In another terminal session launch the sendfile demo
 cd sendfile-demo/cpp
 ./testfile-creator.sh
 ls -lart testfile.bin
-./compile-and-run.sh
+./compile-and-send-with-sendfile.sh
+./send-without-sendfile.sh
 ```
