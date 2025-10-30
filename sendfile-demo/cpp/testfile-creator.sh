@@ -1,1 +1,1 @@
-dd if=/dev/urandom of=testfile.bin bs=1M count=10  # 10 MB file
+dd if=/dev/urandom of=testfile.bin bs=1M count=50  # 50 MB file
