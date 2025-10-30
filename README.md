@@ -32,5 +32,7 @@ To create 250 MB file change the value and run:
 
 <img width="894" height="207" alt="image" src="https://github.com/user-attachments/assets/5ed15fe9-9b8f-4cdf-834e-2d9b2bcd3b23" />
 
+With the minimal nodejs file:
 
+<img width="1197" height="191" alt="image" src="https://github.com/user-attachments/assets/c1e06829-bd3a-4dfd-841b-153e0d421f6a" />
 
